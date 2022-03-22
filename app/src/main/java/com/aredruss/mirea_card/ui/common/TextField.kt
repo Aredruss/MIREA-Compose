@@ -20,7 +20,7 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.ui.graphics.Color.Companion as Color1
 
 @Composable
-fun CodeTextField(actionOnDone: () -> Unit) {
+fun TextField(actionOnDone: () -> Unit) {
     var text by remember { mutableStateOf("") }
     val localFocusManager = LocalFocusManager.current
 
