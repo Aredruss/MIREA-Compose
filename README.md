@@ -1,6 +1,6 @@
 # MIREA Student Card
 
-Демо-проект для открытого урока по Android и Jetpack Compose для струдетов РТУ МИРЭА.
+Демо-проект для открытого урока по Android и Jetpack Compose для студентов РТУ МИРЭА.
 
 Презентация доступна по [Ссылке](https://docs.google.com/presentation/d/1gu2mSUWBgrb5X7RbgoeoUYpPV7sQUZEU9LADtwHlHjk/edit?usp=sharing)
 
